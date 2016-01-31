@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("encoder.c"
+ (filename . "c:/SourceCode/lame-3.99.5/libmp3lame/encoder.c")
+ (front-context-string)
+ (rear-context-string . "eturn mp3count;\n")
+ (position . 18054))
+)
